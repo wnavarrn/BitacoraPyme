@@ -9,5 +9,12 @@ html {
 
 /* Main Secondary */
 .g-bg-bitacoraPyme {
-  background-color: #f3f3f3  !important;
+ /*background-color: #40b4e5  !important;*/
+ background-color: #0071ce;
+}
+
+/* Main Secondary */
+.g-bg-bitacoraPymeSec {
+ /*background-color: #40b4e5  !important;*/
+ background-color: #40b4e5;
 }
