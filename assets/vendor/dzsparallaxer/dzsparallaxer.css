@@ -29,7 +29,7 @@
 .dzsparallaxer:not(.mode-oneelement) {
   height: 300px;
   overflow: hidden;
-  background-color: #1c1a17;
+  background-color:  rgba(13, 147, 236, 0.9);
   position: relative;
   transition-property: height;
   transition-duration: 0.3s;
@@ -55,7 +55,7 @@
   .dzsparallaxer:not(.mode-oneelement) .dzsparallaxer--blackoverlay {
     position: absolute;
     opacity: 0;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(13, 147, 236, 0.9);
     top: 0;
     left: 0;
     width: 100%;
@@ -72,7 +72,7 @@
     color: #eee;
     line-height: 1.5;
     font-style: italic;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+    text-shadow: 1px 1px 1px rgba(13, 147, 236, 0.9);
     opacity: 0.7; }
     .dzsparallaxer:not(.mode-oneelement) .big-text .smaller {
       font-size: 60%; }
